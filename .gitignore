@@ -1,0 +1,3 @@
+# Archivos o rutas que no queremos enel repositorio
+.env
+www/server
